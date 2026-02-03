@@ -114,7 +114,7 @@ export default function ValentineApp() {
               </button>
               <button
                 onClick={handleNoClick}
-                className="bg-gray-300 text-gray-700 px-6 py-3 rounded-full font-semibold hover:bg-gray-400 transition-all shadow-md"
+                className="bg-gray-300 text-white-700 px-6 py-3 rounded-full font-semibold hover:bg-gray-400 transition-all shadow-md"
               >
                 If they born you well, click no
               </button>
