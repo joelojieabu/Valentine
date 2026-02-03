@@ -49,7 +49,7 @@ export default function ValentineApp() {
               />
             </div>
             <img
-              src="/uploads/stick3.png"
+              src="/uploads/stick3.webp"
               alt="Sad character"
               className="w-full max-w-md mx-auto rounded-2xl shadow-lg "
             />
@@ -73,7 +73,7 @@ export default function ValentineApp() {
               />
             </div>
             <img
-              src="/uploads/stick2.png"
+              src="/uploads/stick2.webp"
               alt="Understanding character"
               className="w-full max-w-md mx-auto rounded-2xl shadow-lg"
             />
@@ -97,7 +97,7 @@ export default function ValentineApp() {
               />
             </div>
             <img
-              src="/uploads/stick1.png"
+              src="/uploads/stick1.webp"
               alt="Valentine question"
               className="w-full max-w-md mx-auto rounded-2xl shadow-lg"
             />
